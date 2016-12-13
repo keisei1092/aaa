@@ -43,6 +43,5 @@ bower.json
 # Ignore Byebug command history file.
 .byebug_history
 
-config/secrets.yml
 config/database.yml
 config/environments/production.rb
